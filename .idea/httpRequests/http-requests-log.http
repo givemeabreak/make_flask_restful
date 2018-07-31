@@ -1,0 +1,344 @@
+GET http://localhost:5000/user/1?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075908.200.json
+
+###
+
+GET http://localhost:5000/user/1?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075812.200.json
+
+###
+
+GET http://localhost:5000/user/3?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075803.200.json
+
+###
+
+GET http://localhost:5000/user/3?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075802.200.json
+
+###
+
+GET http://localhost:5000/user/4?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075750.200.json
+
+###
+
+GET http://localhost:5000/user/4?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075559.200.json
+
+###
+
+GET http://localhost:5000/user/1?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075552.200.json
+
+###
+
+GET http://localhost:5000/user/1?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075543.200.json
+
+###
+
+POST http://localhost:5000/users/?username=lili&password=cc
+Accept: */*
+
+<> 2018-07-31T075240.200.json
+
+###
+
+POST http://localhost:5000/users/?upassword='c'&uname='cc'
+Accept: */*
+
+<> 2018-07-31T075210.200.json
+
+###
+
+GET http://localhost:5000/users/?upassword='c'&uname='cc'
+Accept: */*
+
+<> 2018-07-31T075030.200.json
+
+###
+
+POST http://localhost:5000/users/?upassword='c'&uname='cc'
+Accept: */*
+
+<> 2018-07-31T054645.200.html
+
+###
+
+POST http://localhost:5000/users?upassword='c'&uname='cc'
+Accept: */*
+
+<> 2018-07-31T054635.500.html
+
+###
+
+POST http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T054612.500.html
+
+###
+
+GET http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T054609.200.html
+
+###
+
+GET http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+###
+
+GET http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+###
+
+GET http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+###
+
+GET http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T054544.405.html
+
+###
+
+POST http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T054514.500.html
+
+###
+
+POST http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T054513.500.html
+
+###
+
+POST http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T054327.500.html
+
+###
+
+GET http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T054314.405.html
+
+###
+
+POST http://localhost:5000/users?upassword=c&uname=b
+Accept: */*
+
+<> 2018-07-31T053727.500.html
+
+###
+
+POST http://localhost:5000/users?upassword=c
+Accept: */*
+
+<> 2018-07-31T053536.500.html
+
+###
+
+POST http://localhost:5000/users?upassword=c
+Accept: */*
+
+<> 2018-07-31T053514.500.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T053352.500.html
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T053346.200.html
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T053344.405.html
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T053322.405.html
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042139.200.json
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042117.200.json
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042113.200.json
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042112.200.json
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042111.200.json
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042106.200.json
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042101.200.json
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042058.200.json
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T042010.405.html
+
+###
+
+GET http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T031942.200.json
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T031937.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T031935.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023409.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023408.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023407-2.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023407-1.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023407.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023406.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023405-2.405.html
+
+###
+
+POST http://localhost:5000/users?uname=b&upassword=c
+Accept: */*
+
+<> 2018-07-31T023405-1.405.html
+
+###
+

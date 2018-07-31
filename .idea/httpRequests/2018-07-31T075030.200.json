@@ -1,0 +1,10 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "upassword": "aa",
+      "uname": "a",
+      "uid": 1
+    }
+  ]
+}
